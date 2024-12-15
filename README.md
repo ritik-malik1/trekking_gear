@@ -7,13 +7,13 @@ temp repository will be deleted in a few days
 
 | Item              | Quantity    | Where to buy               |
 |-------------------|-------------|----------------------------|
-| quick dry socks   |   2 pair    |  undecided                 |
-| fleece jacket     |   1 pair    |  decathlon store/amazon    |
-| hiking trouser    |   1 pair    |  decathlon strore          |
+| quick dry socks   |   2 pair    |  at home                 |
+| fleece jacket     |   1 pair    |  take hoddie   |
+| hiking trouser    |   1 pair    |  done          |
 | thermals          |   2 pair    |  uniqlo + jockey           |
 | beanie            |   1         |  at home                   |
-| gloves            |   1         |  decathlon store           |
-| poncho raincoat   |   1         |  decathlon store/amazon    |
+| gloves            |   1         |  decathlon done          |
+| poncho raincoat   |   1         |  at mountain     |
 
 ## Category 2: Trekking Gear
 
